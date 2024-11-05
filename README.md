@@ -23,10 +23,10 @@ Esta plataforma está diseñada principalmente para:
 
 ## Autores
 Este proyecto ha sido desarrollado por:
-Anyelo Bill Alejos Jesus
-Jhon Rony Huamani Aguilar 
-Pablo Antonio Geronimo Quispe 
-Erick Ivan Miramira Morales
+- Anyelo Bill Alejos Jesus.
+- Jhon Rony Huamani Aguilar. 
+- Pablo Antonio Geronimo Quispe. 
+- Erick Ivan Miramira Morales.
 
 ## Tecnologías Utilizadas
 - Frontend: HTML, CSS, JavaScript
