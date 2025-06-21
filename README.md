@@ -43,20 +43,16 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 3 
 
 | Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
 |---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
-|   | develop/styles.css | 095c8984d560b6c89642c83e6fa0aa174cd479c3      | Update styles.css       | -- | 25/04/2024  |
-| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 20/05/2025  |
-| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 20/05/2025  |
-| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 20/05/2025  |
-| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 20/05/2025  |
-| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 20/05/2025  |
-| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 20/05/2025  |
-
-
+| https://github.com/AplicacionesWebGrupo1/CicloVia-Backend  |  | 5d9df57242224132e812e6d1df04444a1f      |       | -- | 20/05/2025  |
+| https://github.com/AplicacionesWebGrupo1/CicloVia-Backend  |  | 5d9df57242224132e812eac9ff04444a1f      |       | -- | 20/05/2025  |
+| https://github.com/AplicacionesWebGrupo1/CicloVia-Backend  |  | 5d9df57242224136d1d08ac9ff04444a1f      |       | -- | 20/05/2025  |
+| https://github.com/AplicacionesWebGrupo1/CicloVia-Backend  |  | 5d9df57242224132e812e6d1d08a444a1f      |       | -- | 20/05/2025  |
+| https://github.com/AplicacionesWebGrupo1/CicloVia-Backend  |  | 5d9df57242224132e812e6d1d08ac44a1f      |       | -- | 20/05/2025  |
+| https://github.com/AplicacionesWebGrupo1/CicloVia-Backend  |  | 5d9df57242224132e812e6d1ff04444a1f      |       | -- | 20/05/2025  |
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Durante el desarrollo de este segundo sprint se realizó el dieseño, implementación de la landing page.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -71,14 +67,10 @@ Se trabajo netamente en el Front End de la aplicación.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 
-Capturas:
-
-
 #### 5.2.X.8. Team Collaboration Insights during Sprint
-Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page** y los web applications. 
+Durante este Sprint, el equipo ha colaborado activamente en la implementación del módulo backend para gestión de distancias entre rutas, aplicando principios de Domain-Driven Design (DDD). Se estructuraron claramente los componentes de dominio, comandos, consultas, servicios y repositorios, lo que permitió una separación de responsabilidades limpia y escalable.
 
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
-
 
 
 ### 6. Conclusiones
